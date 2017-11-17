@@ -1,3 +1,3 @@
 ## Tasks to do
 
-[] Setup Github SSH keys.
+- [ ] Setup Github SSH keys.
