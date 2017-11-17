@@ -32,3 +32,7 @@ Log out and log in to start using `zsh` as default.
 ### Setup PostgreSQL to start during boot process
 
 `sudo systemctl enable postgresql`
+
+### Install MongoDB
+`dnf install mongodb mongodb-server`
+
