@@ -25,3 +25,10 @@ Log out and log in to start using `zsh` as default.
 
 `nvm use stable`
 
+### Install PostgreSQL
+
+`sudo dnf install postgresql-server postgresql-contrib`
+
+### Setup PostgreSQL to start during boot process
+
+`sudo systemctl enable postgresql`
